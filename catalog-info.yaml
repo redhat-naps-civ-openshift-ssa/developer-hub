@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: redhat-naps-civ-openshift-ssa/developer-hub
 spec:
-  type: other
+  type: backstage
   lifecycle: unknown
   owner: andykrohg
