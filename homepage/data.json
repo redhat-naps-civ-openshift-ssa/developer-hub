@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Community",
+      "isExpanded": true,
+      "links": [
+        {
+          "iconUrl": "/homepage/icons/github.png",
+          "label": "GitHub",
+          "url": "https://github.com/redhat-naps-civ-openshift-ssa"
+        },
+        {
+          "iconUrl": "/homepage/icons/slack-new.png",
+          "label": "Slack",
+          "url": "https://redhat.enterprise.slack.com/archives/C085QFJJ6SE"
+        },
+        {
+          "iconUrl": "/homepage/icons/external-mailing-list-information-technology-solid-solidglyph-m-oki-orlando.png",
+          "label": "Mailing List",
+          "url": "https://groups.google.com/g/naps-civ-openshift-ssa"
+        }
+      ]
+    },
+    {
+      "title": "Developer Tools",
+      "isExpanded": true,
+      "links": [
+        {
+          "iconUrl": "/homepage/icons/podman_logo.svg",
+          "label": "Podman Desktop",
+          "url": "https://podman-desktop.io"
+        }
+      ]
+    },
+    {
+      "title": "OpenShift Clusters",
+      "isExpanded": true,
+      "links": [
+        {
+          "iconUrl": "/homepage/icons/openshift.png",
+          "label": "Civ OpenShift SSA ROSA Cluster",
+          "url": "https://console-openshift-console.apps.rosa.civ-ocp-ssa.8nil.p3.openshiftapps.com"
+        }
+      ]
+    }
+  ]
