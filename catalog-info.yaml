@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: developer-hub
+  annotations:
+    github.com/project-slug: redhat-naps-civ-openshift-ssa/developer-hub
+spec:
+  type: other
+  lifecycle: unknown
+  owner: andykrohg
